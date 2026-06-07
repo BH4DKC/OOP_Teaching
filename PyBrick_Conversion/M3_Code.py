@@ -1,4 +1,5 @@
 # Do NOT use RUN button within IDE!
+# For uploading code to Hub, go to https://code.pybricks.com/
 
 from pybricks.hubs import PrimeHub
 from pybricks.pupdevices import Motor, ColorSensor
